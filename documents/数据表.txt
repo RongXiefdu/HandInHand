@@ -1,0 +1,2 @@
+我设计了6张表，
+https://github.com/HurricaneTong/HandInHand/blob/master/init.sql
